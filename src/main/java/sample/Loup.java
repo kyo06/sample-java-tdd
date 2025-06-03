@@ -5,7 +5,7 @@ public class Loup
 
 	public Orientation getOrientation()
 	{
-		return null;
+		return "NORD";
 	}
 
 }
